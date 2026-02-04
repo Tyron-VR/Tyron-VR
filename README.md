@@ -61,17 +61,6 @@ and version control while documenting my learning journey on GitHub.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight" height="165"/>
-
-</div>
-
----
-
 ## 📄 CV
 
 📌 *Coming soon – currently building skills and experience*
