@@ -37,38 +37,18 @@ and version control while documenting my learning journey on GitHub.
 
 ---
 
-## 🚀 Featured Projects
+## 🚧 Projects (Coming Soon)
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🧮 Basic Calculator (Python)
-A beginner-friendly Python project created while learning programming fundamentals.
+🚀 **Projects will be added as I progress through my BIT studies**  
 
-**What I learned:**
-- Variables & user input  
-- Conditional logic  
-- Clean code structure  
+📌 Planned areas:
+- Programming fundamentals projects  
+- Small Python & Java applications  
+- University practicals and assignments  
 
-🔗 [View Repository](https://github.com/username/basic-calculator)
-
-</td>
-<td width="50%">
-
-### 📘 Programming Practice
-A collection of small exercises and classwork from my BIT course.
-
-**Focus areas:**
-- Logic building  
-- Syntax practice  
-- Problem solving  
-
-🔗 [View Repository](https://github.com/username/python-basics)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -102,11 +82,7 @@ A collection of small exercises and classwork from my BIT course.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your.email@example.com">
+<a href="mailto:605348@student.belgiumcampus.ac.za">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
