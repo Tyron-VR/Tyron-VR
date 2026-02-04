@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I’m Tyron Van Rooyen
 
-<!--
-**Tyron-VR/Tyron-VR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Bachelor of Information Technology (BIT) student  
+🏫 Belgium Campus iTversity, South Africa  
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- Programming fundamentals
+- Problem-solving & algorithms
+- Git & GitHub basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interests:
+- Software Development
+- Web Development
+- Emerging Technologies
+
+💼 Career Goal:
+Aspiring Software Developer / IT Professional
+
+---
+
+🚀 Skills (Beginner Level)
+
+- Programming: Python (Beginner), Java (Beginner)
+- Tools: Git, GitHub, VS Code
+- Concepts: Problem Solving, Basic Algorithms
+
+---
+
+📂 Projects
+
+- Coming Soon
+
+*(More projects will be added as I progress through my studies)*
+
+---
+
+📄 CV  
+Coming soon
